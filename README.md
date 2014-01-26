@@ -2,7 +2,7 @@
 ======
 
 ### Script to install vim configuration files 
-Tested with CentOS and Ubuntu. 
+Tested with CentOS and Ubuntu.   
 Will need  modifications for windows if home dir is not set
 
 Easiest way to use this is to run this from your home folder in Terminal:
