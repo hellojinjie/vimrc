@@ -38,5 +38,5 @@ cd ../..
 # Puts Pathogen in the right location
 curl https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim > .vim/autoload/pathogen.vim
  
-curl https://raw.github.com/hellojinjie/.vimrc/master/vimrc > .vimrc   
-curl https://raw.github.com/hellojinjie/.vimrc/master/vimrc_main > .vimrc_main
+curl https://raw.github.com/hellojinjie/vimrc/master/vimrc > .vimrc   
+curl https://raw.github.com/hellojinjie/vimrc/master/vimrc_main > .vimrc_main
