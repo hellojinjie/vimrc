@@ -32,8 +32,8 @@ set backspace=indent,eol,start           "allow backspacing over everything in i
 set noerrorbells                         "don't make noise
 set shiftround                           "when at 3 spaces, and I hit > ... go to 4, not 5
  
-set cursorline                           "underline the current line in the file
-set cursorcolumn                         "highlight the current column. Visible in GUI mode only.
+"set cursorline                           "underline the current line in the file
+"set cursorcolumn                         "highlight the current column. Visible in GUI mode only.
  
 set wildmenu                             "make tab completion act more like bash
 set wildmode=list:longest                "tab complete to longest common string, like bash
@@ -75,7 +75,7 @@ map <F4> :tabn<CR>                       " previous tab
 map <Leader>A :AckG                                                                                                           
 map <Leader>a :Ack
  
-colorscheme vividchalk 
+colorscheme desert 
  
      set statusline=%F%m%r%h%w[%L][%{&ff}]%y[%p%%][%04l,%04v]
      "              | | | | |  |   |      |  |     |    |
