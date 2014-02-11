@@ -2,7 +2,8 @@
 ======
 
 ### Origin
-This script is original from https://raw.github.com/gist/532968/vim.sh. But the original link has broken, so, I copy them to this repo
+This script is original from https://raw.github.com/gist/532968/vim.sh.   
+But the original link has broken, so, I copy them to this repo
 
 ### Script to install vim configuration files 
 Tested with CentOS and Ubuntu.   
