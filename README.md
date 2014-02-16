@@ -24,3 +24,7 @@ error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify faile
 More details here: http://curl.haxx.se/docs/sslcerts.html
 ```
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hellojinjie/vimrc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
