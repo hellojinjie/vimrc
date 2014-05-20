@@ -39,8 +39,9 @@ set wildmenu                             "make tab completion act more like bash
 set wildmode=list:longest                "tab complete to longest common string, like bash
  
 "set mouse-=a                            "disable mouse automatically entering visual mode
-set mouse=a                              "Enable mouse support in the terminal VIM and activate visual mode with dragging
- 
+"set mouse=a                              "Enable mouse support in the terminal VIM and activate visual mode with dragging
+set mouse=v
+
 set wrap!                                "Word wrap on
 set bs=2
 set number                               "Show line numbers
